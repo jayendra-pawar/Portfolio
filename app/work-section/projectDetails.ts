@@ -12,7 +12,7 @@ export type ProjectProps = {
 export const devProjects = [
   {
     id: 0,
-    name: "Shopcruise",
+    name: "ShopCruise",
     description:
       "Shopcruise lets you seamlessly explore ecommerce, add products, and search across all pages. It offers user authentication along with a payment integration.",
     technologies: ["Next.js", "Typescript", "Prisma"],
