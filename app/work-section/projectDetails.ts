@@ -28,7 +28,7 @@ export const devProjects = [
       "SkyWatch is a convenient and user-friendly tool that allows you to quickly and easily check the current weather and forecast for the next 2 days in any city.",
     technologies: ["React", "CSS", "Chart.js"],
     github: "https://github.com/jayendra-pawar/weather-forecast-website",
-    demo: "https://sky-watch.vercel.app/",
+    demo: "https://skywatch.vercel.app/",
     image: require(".//../../public/projects/skywatch-new.webp"),
     available: true,
   },
